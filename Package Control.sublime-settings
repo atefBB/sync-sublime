@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"auto-save",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"DocBlockr",
+		"DotENV",
+		"EditorConfig",
+		"Emmet",
+		"FileIcons",
+		"Git",
+		"Git blame",
+		"GitGutter",
+		"HTML Minifier",
+		"ImportJS",
+		"JavaScript Enhancements",
+		"JsPrettier",
+		"Laravel Blade AutoComplete",
+		"Laravel Blade Highlighter",
+		"LoremIpsum",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Theme",
+		"Minifier",
+		"MoveText",
+		"Open URL",
+		"Package Control",
+		"PHP Syntax Checker",
+		"Phpcs",
+		"Rainglow",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Terminus",
+		"TypeScript",
+		"UnusedCssFinder"
+	]
+}
