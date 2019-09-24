@@ -2,3 +2,7 @@
 !Preferences.sublime-settings
 !Package Control.sublime-settings
 /sftp_servers
+/Package Control.cache
+/Terminus
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
