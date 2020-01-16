@@ -27,9 +27,11 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_face": "Fira Code",
+	"font_face": "JetBrains Mono",
+	// "font_face": "Fira Code",
 	"font_options":
 	[
+	    "dlig"
 	],
 	"font_size": 30,
 	"highlight_line": true,
