@@ -8,15 +8,12 @@
 		"All Autocomplete",
 		"auto-save",
 		"BracketHighlighter",
-		"CodeFormatter",
 		"DocBlockr",
 		"DotENV",
-		"EditorConfig",
 		"Emmet",
 		"FileIcons",
 		"Git",
 		"Git blame",
-		"GitGutter",
 		"HTML Minifier",
 		"ImportJS",
 		"JavaScript Enhancements",
@@ -24,8 +21,6 @@
 		"Laravel Blade AutoComplete",
 		"Laravel Blade Highlighter",
 		"LoremIpsum",
-		"MarkdownEditing",
-		"MarkdownPreview",
 		"Material Theme",
 		"Minifier",
 		"MoveText",
@@ -39,8 +34,6 @@
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
-		"Terminus",
-		"TypeScript",
-		"UnusedCssFinder"
+		"TypeScript"
 	]
 }
